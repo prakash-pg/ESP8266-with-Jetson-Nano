@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 mqtt_broker = "192.168.1.24"
 mqtt_port = 1883
 mqtt_user = "esp123"
-mqtt_password = "Happy@1234"
+mqtt_password = "xxxxx"
 publish_topic = "alert"
 def on_connect(client, userdata, flags, rc):
     if rc == 0:
