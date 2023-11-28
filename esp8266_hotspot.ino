@@ -6,7 +6,7 @@ const char* password = "xxxxxxxxx";
 const char* mqttServer = "192.168.4.2";
 const int mqttPort = 1883;
 const char* mqttUser = "esp123";
-const char* mqttPassword = "Happy@1234";
+const char* mqttPassword = "xxxx";
 const char* subscribeTopic = "alert";
 
 WiFiClient espClient;
